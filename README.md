@@ -1,4 +1,4 @@
-# [ESX]esx_steamid / [Standalone]steamid
+# [ESX] esx_steamid / [Standalone] steamid
 Show steam identifier on screen!
 
 ### Installation
