@@ -23,7 +23,7 @@ function getIdentity(source)
 	end
 end
 
-ESX.RegisterServerCallback('esx_steamid:id', function(source, steam)
+ESX.RegisterServerCallback('esx_steamidentifier:id', function(source, steam)
     local id = getIdentity(source)
     steam(id.identifier)
 end)
