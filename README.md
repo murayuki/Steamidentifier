@@ -8,4 +8,4 @@ Show steam identifier on screen!
 4) Configure to your liking
 
 ### Screenshot
-![Alt text](https://i.imgur.com/ZBNkXuk.png "Optional title")
+![Alt text](https://i.imgur.com/ZBNkXuk.png "What up nigga c:<")
