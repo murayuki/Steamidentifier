@@ -8,7 +8,7 @@ end)
 Citizen.CreateThread(function()
 	if true then
 		Citizen.Wait(2000)
-		ESX.TriggerServerCallback('esx_steamid:id', function(id)
+		ESX.TriggerServerCallback('steamidentifier:id', function(id)
 				steam = id
 				steam = steam:sub(Config.Long)
 			while true do
